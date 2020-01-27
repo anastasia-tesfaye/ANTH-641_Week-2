@@ -10,4 +10,4 @@ My favorite section of the textbook so far is the XKCD comic and the section abo
 
 ![alt text](https://o-date.github.io/draft/book/images/ten_thousand.png)
 
-It is _important_ for people to understand how to use digital tools properly in order to do right by the *data*.
+It is _important_ for people to understand how to use digital tools properly in order to do right by the **data**.
