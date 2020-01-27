@@ -11,3 +11,11 @@ My favorite section of the textbook so far is the XKCD comic and the section abo
 ![alt text](https://o-date.github.io/draft/book/images/ten_thousand.png)
 
 It is _important_ for people to understand how to use digital tools properly in order to do right by the **data**.
+
+Here's a great video about digital archaeology in Greece. 
+
+
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Qrgnw9c28Eg
+" target="_blank"><img src="http://img.youtube.com/vi/Qrgnw9c28Eg/0.jpg" 
+alt="Greece" width="240" height="180" border="10" /></a>
